@@ -1,1 +1,1 @@
-# BASE_AUTH
+med-admin
